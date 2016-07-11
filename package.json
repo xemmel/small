@@ -2,7 +2,7 @@
   "name": "angular2-quickstart",
   "version": "1.0.0",
   "scripts": {
-    "postinstall": "node_modules\typescript\bin\tsc -p"
+    
   },
   "license": "ISC",
   "dependencies": {
